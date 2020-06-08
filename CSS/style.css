@@ -1,0 +1,137 @@
+.all{
+    width: 80%;
+    height: 1000px;
+  }
+  .left{
+    width:20%;
+    height: 1000px;
+    float: left;
+    margin-left: 213px;
+    border-right: 1px solid;
+    background-color: aliceblue;
+  }
+  .right1{
+    width: 40%;
+    float: right;
+    height: 1000px;
+    margin-right: 211px;
+    border-left: 1px solid;
+    background-color: rgb(80, 82, 83);
+    color: #FFFFFF;
+  }
+  .myImg{
+    width:100px;
+    height:100px;
+    background-color:rgb(208, 206, 209);
+    border-radius:50%;
+    border:1px solid black;
+    margin: 0px auto;
+    margin-top: 20px;
+    text-align: center;
+    line-height: 100px;
+  }
+  .myProfile{
+    width: 200px;
+    height: 200px;
+    margin-left: 15px;
+  }
+  #line{
+    width: 120px;
+    border-bottom: 2px solid #000000;
+    float: right;
+    margin-top: 30px;
+    margin-right: 10px;
+    }
+  .Profile1{
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    float: left;
+  }
+  
+  .Profile2{
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    float: left;
+  }
+  .contact{
+    width: 200px;
+    height: 200px;
+    margin-top: 40px;
+    list-style: none;
+    margin-left: 20px;
+  }
+  #line2{
+    width: 400px;
+    border-bottom: 4px solid #FFFFFF;
+    float: right;
+    margin-top: 20px;
+    margin-right: 10px;
+    }
+  #line3{
+    width: 400px;
+    border-bottom: 4px solid #FFFFFF;
+    float: right;
+    margin-right: 10px;
+    }
+  #line4{
+    width: 100px;
+    border-bottom: 6px solid #FFFFFF;
+    margin-left: 20px;
+  }
+  .right1 h3,h2,h1,h4{
+    margin-left: 20px;
+  }
+  .name{
+    margin-top: 30px;
+    text-shadow:1 1 1 1
+  }
+  .dimension{
+    margin-top: 80px;
+  }
+  .content2{
+    margin-top: 50px;
+    margin-left: 20px;
+  }
+  dd{
+    margin: 0px 0px 0px 0px;
+  }
+  
+  .advantage1{
+    width:90px;
+    height:90px;
+    background-color:rgb(176, 176, 190);
+    border-radius:50%;
+    /* margin: 0px auto; */
+    /* margin-top: 50px;
+    margin-left: 80px; */
+    position: absolute;
+    text-align: center;
+    line-height: 100px;
+  }
+  .advantage2{
+    width:90px;
+    height:90px;
+    background-color:rgb(176, 176, 190);
+    border-radius:50%;
+    /* margin: 0px auto; */
+    /* /* margin-top: 50px; */
+    margin-left: 160px;
+    position: absolute;
+    text-align: center;
+    line-height: 100px;
+  }
+  .advantage3{
+    width:100px;
+    height:100px;
+    background-color:rgb(89, 89, 90);
+    border-radius:50%;
+    /* margin: 0px auto; */
+    /* /* margin-top: 50px; */
+    margin-left: 80px;
+    position: absolute;
+    text-align: center;
+    line-height: 100px;
+    opacity: 0.9;
+  }
